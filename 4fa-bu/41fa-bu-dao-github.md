@@ -1,6 +1,6 @@
 # 发布到github仓库 {#%E5%8F%91%E5%B8%83%E5%88%B0github%E4%BB%93%E5%BA%93}
 
-[GitBook.com](https://yuzeshan.gitbooks.io/gitbook-studying/publish/gitbook.com)为每本书籍都创建了一个Git项目，并且使用这个Git项目来管理书籍源码（注意：这里的源码是指所有用户提交的内容）。正如在_编辑书籍_中介绍的那样，我们可以通过向书籍的Git项目提交内容来更新书籍。
+[GitBook.com](https://tao-cloud.gitbooks.io/gitbook/)为每本书籍都创建了一个Git项目，并且使用这个Git项目来管理书籍源码（注意：这里的源码是指所有用户提交的内容）。正如在_编辑书籍_中介绍的那样，我们可以通过向书籍的Git项目提交内容来更新书籍。
 
 另外，GitBook.com 还可以集成GitHub，所以用户可以将书籍的源码通过GitHub 上的项目来管理\(而且在github上编辑时也可以同步到GitBook.com上对应的仓库\)，这样可以使用GitHub 带来的各种优点，例如：
 
