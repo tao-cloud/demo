@@ -7,7 +7,7 @@
   * [1.3Gitbook基本命令](chapter1/13gitbookji-ben-ming-ling.md)
 * [2.图书编辑](11nodejsan-zhuang.md)
   * [2.1.gitbook命令行&markdown](11nodejsan-zhuang/21gitbookming-ling-884c26-markdown.md)
-  * 2.2.gitbook editor
+  * [2.2.gitbook editor](11nodejsan-zhuang/22gitbook-editor.md)
 * [3.图书输出](3tu-shu-shu-chu.md)
   * 3.1.输出为静态网址
   * 3.2.输出为PDF
