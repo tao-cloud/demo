@@ -9,8 +9,8 @@
   * [2.1.gitbook命令行&markdown](11nodejsan-zhuang/21gitbookming-ling-884c26-markdown.md)
   * [2.2.gitbook editor](11nodejsan-zhuang/22gitbook-editor.md)
 * [3.图书输出](3tu-shu-shu-chu.md)
-  * 3.1.输出为静态网址
-  * 3.2.输出为PDF
+  * [3.1.输出为静态网址](3tu-shu-shu-chu/31shu-chu-wei-jing-tai-wang-zhi.md)
+  * [3.2.输出为PDF](3tu-shu-shu-chu/32shu-chu-wei-pdf.md)
 * [4.发布](4fa-bu.md)
   * 4.1.发布到github
   * 发布到github pages
