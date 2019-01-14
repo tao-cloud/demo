@@ -10,7 +10,7 @@
 
 等等
 
-这里，接着之前的实例，将使用GitHub中的项目来替代GitBook.com上的项目:`https://git.gitbook.com/yuzeshan/gitbook-studying.git`.分为以下三大步骤:
+这里，接着之前的实例，将使用GitHub中的项目来替代GitBook.com上的项目:`https://git.gitbook.com/tao-cloud/gitbook-studying.git`.分为以下三大步骤:
 
 ## 在Github上创建仓库，并设置 {#%E5%9C%A8github%E4%B8%8A%E5%88%9B%E5%BB%BA%E4%BB%93%E5%BA%93%EF%BC%8C%E5%B9%B6%E8%AE%BE%E7%BD%AE}
 
