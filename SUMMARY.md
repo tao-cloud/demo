@@ -3,8 +3,8 @@
 * [介绍](README.md)
 * [1.基本安装](chapter1.md)
   * [1.1.Node.js安装](chapter1/11nodejsan-zhuang.md)
-  * 1.2.Gitbook安装
-  * 1.3Gitbook基本命令
+  * [1.2.Gitbook安装](chapter1/12gitbookan-zhuang.md)
+  * [1.3Gitbook基本命令](chapter1/13gitbookji-ben-ming-ling.md)
 * [2.图书编辑](11nodejsan-zhuang.md)
   * 2.1.gitbook命令行&markdown
   * 2.2.gitbook editor
