@@ -34,9 +34,9 @@ GitBook支持输出多种文档格式，如：
 ## 本项目地址 {#%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%9C%B0%E5%9D%80}
 
 * 仓库：
-  [https://github.com/yuzeshan/gitbook-studying](https://github.com/yuzeshan/gitbook-studying)
+  [https://github.com/tao-cloud/gitbook](https://github.com/yuzeshan/gitbook-studying)
 * 在线阅读：
-  [http://yuzeshan.gitbooks.io/gitbook-studying/content/](http://yuzeshan.gitbooks.io/gitbook-studying/content/)
+  [http://yuzeshan.gitbooks.io/gitbook-studying/content/](http://tao-cloud.gitbooks.io/gitbook/)
 
 
 
