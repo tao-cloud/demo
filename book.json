@@ -1,0 +1,13 @@
+{
+    "plugins": ["donate"],
+    "pluginsConfig": {
+        "donate": {
+          "wechat": "https://tao-cloud.github.io/img/Wechatspeed.png",
+          "alipay": "https://tao-cloud.github.io/img/Alipyspeed.png",
+          "title": "",
+          "button": "打赏",
+          "alipayText": "支付宝捐赠",
+          "wechatText": "微信捐赠"
+        }
+    }
+}
