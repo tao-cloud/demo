@@ -18,7 +18,7 @@
   `gitbook-studying`
   ;
 * 显示如下:
-  ![](https://yuzeshan.gitbooks.io/gitbook-studying/imgs/git_repository.png)
+  ![](/assets/git_repository.png)
 * 将建好的仓库克隆到本地，但是使用cmd的时候，发现clone被拒绝，未找到原因，于是换作
   [git bash](http://git-scm.com/download/win)
   同样使用cd进入书籍目录\(E:\gitbook\gitbook-studying-github，此为新的空目录\)
@@ -34,7 +34,7 @@
 
 首先，到Gitbook.com页面，将书籍的Git 项目设置为GitHub 上的项目，进入书籍属性页面，找到"GitHub" 图标，如下图：
 
-![](https://yuzeshan.gitbooks.io/gitbook-studying/imgs/gitbook_github.png)
+![](/assets/gitbook_github.png)
 
 输入将要使用的GitHub 上的项目，注意是公开的项目，如下图：
 
