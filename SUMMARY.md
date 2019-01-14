@@ -13,6 +13,6 @@
   * [3.2.输出为PDF](3tu-shu-shu-chu/32shu-chu-wei-pdf.md)
 * [4.发布](4fa-bu.md)
   * [4.1.发布到github](4fa-bu/41fa-bu-dao-github.md)
-  * 发布到github pages
+  * [发布到github pages](4fa-bu/fa-bu-dao-github-pages.md)
 * 5.结束
 
