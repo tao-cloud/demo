@@ -12,7 +12,7 @@
   * [3.1.输出为静态网址](3tu-shu-shu-chu/31shu-chu-wei-jing-tai-wang-zhi.md)
   * [3.2.输出为PDF](3tu-shu-shu-chu/32shu-chu-wei-pdf.md)
 * [4.发布](4fa-bu.md)
-  * 4.1.发布到github
+  * [4.1.发布到github](4fa-bu/41fa-bu-dao-github.md)
   * 发布到github pages
 * 5.结束
 
